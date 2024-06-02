@@ -1,5 +1,6 @@
 # Car-Sales-Prediction
-In my exploration of machine learning models, I've been utilizing synthetic datasets generated from random values (sourced from Kaggle). However, I recognize the potential for improved realism and applicability by leveraging real-world datasets.
+
+For my exploration of machine learning models, I've been using synthetic datasets generated from random values sourced from Kaggle. However, I acknowledge the potential for enhanced realism and applicability by incorporating real-world datasets.
  
 
 
